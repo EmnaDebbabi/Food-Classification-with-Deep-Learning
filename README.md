@@ -59,7 +59,7 @@ In the future, We would like to learn how to: </br>
 * How to avoid Loading a large amount of data into memory?
 * Saving the data into h5py file for out of band processing?
 * Improving multiprocessing image augmentation? </br>
-Please get in touch if you have any ideas! </br
+Please get in touch if you have any ideas! </br>
 ## Ressources:
 I was inspired by this Keras blog post: <a href="https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html" >Building powerful image classification models using very little data </a></br>
 and a related script I found on github that belongs to Keras too: <a href="https://keras.io/guides/transfer_learning/">keras-finetuning</a></br>
