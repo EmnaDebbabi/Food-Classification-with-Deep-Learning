@@ -43,11 +43,12 @@ We built a system recently for the purpose of experimenting with Deep Learning. 
 
 ## Results
 After fine-tuning a pre-trained efficientnet model, I was able to achieve about 86.99% Top-1 Accuracy on the test set using a single crop per item.But when it came to prediction there is a noticed loss.
-</br> * We have been able to achieve more accurate results with: </br>
+</br> 
+* We have been able to achieve more accurate results with: </br>
   InceptionV3 </br>
   ResNet200 </br>
   WISeR </br>
-</br> <img src="images/3.png" width="" height="">
+  <img src="images/3.png" width="" height="">
 
 ## Thoughts and future improvement
 We have spent about 2 months on and off building this project, trying to train dozens of models and exploring various areas such as multiprocessing for faster image augmentation. This is a cleaned up version of the notebook that contains my best performing model as of Sep 14, 2020.</br>
